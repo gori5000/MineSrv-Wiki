@@ -22,7 +22,7 @@
 ## レベル50
 ラピスラズリが開放します。ラピスラズリ鉱石を掘ると、ラピスラズリが出てきて、10分の1の確率でラピスラズリブロックをGETします。
 
-![](https://github.com/Mojang/bedrock-samples/blob/main/resource_pack/textures/items/lapis_lazuli.png) ![](https://github.com/Mojang/bedrock-samples/blob/main/resource_pack/textures/blocks/lapis_block.png)
+![]([https://github.com/gori5000/MineSrv-Wiki/blob/main/image/ore/lapis_lazuli.png) ![](https://github.com/Mojang/bedrock-samples/blob/main/resource_pack/textures/blocks/lapis_block.png)
 ## レベル60
 レッドストーンが開放します。レッドストーン鉱石を掘ると、レッドストーンダストが出てきて、20分の1の確率でレッドストーンブロックをGETします。
 
