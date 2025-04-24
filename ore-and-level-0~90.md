@@ -1,8 +1,7 @@
 # レベル
 ## レベル0
 土が掘れます。土を掘ると、土が出てきてきます。
-
-
+![](https://github.com/Mojang/bedrock-samples/blob/main/resource_pack/textures/blocks/dirt.png)
 
 レベル10 
 石が開放します。石を掘ると、丸石が出てきて、10分の1の確率で石をGETします。
