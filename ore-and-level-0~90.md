@@ -22,16 +22,21 @@
 ## レベル50
 ラピスラズリが開放します。ラピスラズリ鉱石を掘ると、ラピスラズリが出てきて、10分の1の確率でラピスラズリブロックをGETします。
 
-![]([https://github.com/gori5000/MineSrv-Wiki/blob/main/image/ore/lapis_lazuli.png) ![](https://github.com/Mojang/bedrock-samples/blob/main/resource_pack/textures/blocks/lapis_block.png)
+ ![](https://github.com/gori5000/MineSrv-Wiki/blob/main/image/ore/lapis_lazuli.png) ![](https://github.com/Mojang/bedrock-samples/blob/main/resource_pack/textures/blocks/lapis_block.png)
 ## レベル60
 レッドストーンが開放します。レッドストーン鉱石を掘ると、レッドストーンダストが出てきて、20分の1の確率でレッドストーンブロックをGETします。
 
-
-
-レベル70
+![](https://github.com/Mojang/bedrock-samples/blob/main/resource_pack/textures/items/redstone_dust.png) ![](https://github.com/Mojang/bedrock-samples/blob/main/resource_pack/textures/blocks/redstone_block.png)
+## レベル70
 金が開放します。金鉱石を掘ると、金インゴットが出てきて、20分の1の確率で金ブロックをGETします。
 
-
-
-レベル80
+![](https://github.com/Mojang/bedrock-samples/blob/main/resource_pack/textures/items/gold_ingot.png) ![](https://github.com/Mojang/bedrock-samples/blob/main/resource_pack/textures/blocks/gold_block.png)
+## レベル80
 エメラルドが開放します。エメラルド鉱石を掘ると、エメラルドが出てきて、30分の1の確率でエメラルドブロックをGETします。
+
+![](https://github.com/Mojang/bedrock-samples/blob/main/resource_pack/textures/items/emerald.png) ![](https://github.com/Mojang/bedrock-samples/blob/main/resource_pack/textures/blocks/emerald_block.png)
+
+## レベル90
+ダイヤモンドが解放します。ダイヤモンド鉱石を掘ると、ダイヤモンドが出てきて、30分の1の確率でダイヤモンドブロックをGETします。
+
+![](https://github.com/Mojang/bedrock-samples/blob/main/resource_pack/textures/items/diamond.png) ![](https://github.com/Mojang/bedrock-samples/blob/main/resource_pack/textures/blocks/diamond_block.png)
