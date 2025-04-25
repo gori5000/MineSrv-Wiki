@@ -41,4 +41,4 @@
 
 ![](https://github.com/Mojang/bedrock-samples/blob/main/resource_pack/textures/items/diamond.png) ![](https://github.com/Mojang/bedrock-samples/blob/main/resource_pack/textures/blocks/diamond_block.png)
 
-# (元に戻る)[https://github.com/gori5000/MineSrv-Wiki/blob/main/README.md]
+# [元に戻る](https://github.com/gori5000/MineSrv-Wiki/blob/main/README.md)
