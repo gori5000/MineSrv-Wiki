@@ -40,3 +40,5 @@
 ダイヤモンドが解放します。ダイヤモンド鉱石を掘ると、ダイヤモンドが出てきて、30分の1の確率でダイヤモンドブロックをGETします。
 
 ![](https://github.com/Mojang/bedrock-samples/blob/main/resource_pack/textures/items/diamond.png) ![](https://github.com/Mojang/bedrock-samples/blob/main/resource_pack/textures/blocks/diamond_block.png)
+
+# [元に戻る](https://github.com/gori5000/MineSrv-Wiki/blob/main/README.md)
