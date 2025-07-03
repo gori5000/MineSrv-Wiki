@@ -1,3 +1,8 @@
+# このWikiは https://wiki.minesrv-mcbe.net/ へと移行しました。
+
+
+
+
 # MineSrv-Wiki
 ここではMineSrvに関するWikiがあります。
 
