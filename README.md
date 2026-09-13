@@ -1,4 +1,4 @@
-# このWikiは https://wiki.minesrv-mcbe.net/ へと移行しました。
+# ~~このWikiは https://wiki.minesrv-mcbe.net/ へと移行しました。~~
 
 
 
